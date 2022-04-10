@@ -1,0 +1,249 @@
+ ",2
+"J,1
+Ja,1
+an,9
+nu,1
+ua,1
+ar,10
+ry,2
+y ,5
+ 2,1
+28,1
+8t,1
+th,19
+h,,3
+, ,9
+ a,18
+ab,3
+bo,2
+ou,8
+ut,3
+t ,7
+ s,8
+si,2
+ix,1
+x ,1
+ p,2
+p.,1
+.m,1
+m.,2
+.",1
+" ,2
+ T,5
+Th,5
+he,24
+ey,3
+y',1
+'l,1
+ll,3
+l ,1
+ f,6
+fi,2
+in,12
+nd,11
+d ,10
+ u,3
+us,1
+s ,18
+ i,7
+n ,10
+ t,22
+e ,29
+ m,4
+mo,3
+or,4
+rn,3
+ni,1
+ng,5
+g.,1
+. ,12
+ C,1
+Co,1
+om,3
+me,3
+ h,5
+ha,3
+av,1
+ve,3
+su,1
+up,3
+pp,1
+pe,2
+er,8
+r,,1
+my,1
+ d,3
+de,3
+ea,3
+r ,4
+ l,7
+lo,4
+ov,2
+e.,1
+ c,6
+cu,1
+ur,4
+rt,1
+ta,3
+ai,2
+fa,1
+al,3
+ls,3
+fo,2
+a ,4
+fe,1
+ew,2
+w ,1
+se,3
+ec,4
+co,5
+on,4
+ds,2
+to,2
+o ,3
+di,1
+ic,1
+ca,3
+at,2
+te,3
+pa,1
+as,1
+ss,2
+sa,1
+ag,2
+ge,1
+ o,7
+of,2
+f ,2
+hr,1
+re,10
+ee,2
+ho,1
+rs,4
+s.,3
+ W,1
+Wh,1
+en,7
+it,1
+ r,3
+ri,1
+is,4
+es,5
+ga,1
+n,,2
+ly,2
+yi,1
+g ,4
+uc,3
+ch,4
+ e,4
+ac,1
+h ,1
+ot,1
+r',1
+'s,2
+rm,3
+ms,2
+s,,2
+li,6
+il,3
+ie,1
+st,2
+tr,1
+am,1
+m ,2
+em,2
+ g,3
+gi,1
+ir,2
+rl,1
+l',1
+ b,4
+ba,1
+ro,1
+un,2
+ L,1
+LA,1
+AR,1
+RR,1
+RY,1
+Y',1
+'S,1
+S ,1
+ n,2
+ne,2
+ck,3
+k.,2
+ H,2
+He,2
+ye,1
+cl,1
+os,1
+ed,3
+d;,1
+; ,1
+hi,1
+op,1
+ig,5
+gh,5
+ht,5
+tl,1
+le,2
+no,2
+bu,1
+e-,1
+-l,2
+t.,3
+ A,1
+A ,1
+ k,2
+kn,1
+oc,2
+ki,1
+do,1
+oo,1
+so,1
+ke,1
+tu,2
+ K,1
+KE,1
+EI,1
+IT,1
+TH,1
+H ,1
+nt,4
+be,1
+wi,1
+ld,1
+by,1
+lf,1
+f-,1
+t,,1
+sh,1
+rp,1
+pl,1
+y:,1
+: ,1
+"L,1
+La,1
+rr,1
+y!,1
+!",1
+ns,1
+p ,2
+ S,1
+Se,1
+ei,1
+oi,1
+gl,1
+la,1
+nc,1
+ci,1
+bl,1
+mp,1
+pt,1
+ty,1
+go,1
+oe,1
+h.,1
+TOTAL NUMBER OF BIGRAMS = 714

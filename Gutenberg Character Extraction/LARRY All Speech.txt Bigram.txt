@@ -1,0 +1,569 @@
+ O,3
+On,1
+nl,3
+ly,12
+y ,55
+ I,92
+I-,2
+--,37
+-L,1
+La,3
+ar,35
+rr,9
+ry,14
+y.,9
+. ,157
+ Y,17
+Ye,10
+es,35
+s,,6
+, ,93
+ K,37
+Ke,30
+ei,32
+it,67
+th,125
+h.,14
+It,10
+t',13
+'s,25
+s ,75
+ t,109
+tr,9
+ru,10
+ue,4
+e.,24
+e,,14
+I ,59
+te,26
+el,19
+ll,41
+l ,38
+ y,34
+yo,31
+ou,72
+u;,1
+; ,9
+I',18
+'v,14
+ve,54
+e ,163
+ k,20
+ki,10
+il,25
+le,26
+ed,26
+d ,86
+ a,99
+a ,27
+ m,53
+ma,23
+an,73
+n.,10
+ W,29
+Wh,13
+ho,17
+om,12
+m ,13
+ s,67
+sh,21
+ul,12
+ld,16
+l,,4
+h?,4
+? ,23
+ c,31
+ca,13
+am,7
+me,29
+to,29
+o ,47
+as,22
+sk,1
+k ,16
+ w,63
+wh,17
+ha,53
+at,44
+t ,112
+'m,4
+ d,50
+do,23
+ -,4
+- ,3
+ g,34
+gi,10
+iv,8
+my,5
+ys,5
+se,23
+lf,2
+f ,21
+ u,19
+up,17
+p,,2
+ o,49
+or,53
+r ,67
+t?,6
+ L,10
+st,30
+ n,34
+ni,10
+ig,9
+gh,11
+ht,10
+t.,18
+ M,4
+My,2
+ h,75
+he,121
+ea,36
+ad,18
+d!,4
+! ,47
+s!,4
+ l,46
+li,25
+ik,7
+ke,20
+hi,39
+is,13
+h-,6
+-t,4
+er,91
+re,54
+e',10
+ir,13
+rl,12
+ A,13
+A ,5
+ P,7
+Po,3
+ol,5
+h ,14
+l.,4
+ S,23
+Sh,9
+e-,9
+-h,2
+ f,36
+fa,1
+di,7
+ie,7
+ov,7
+en,32
+n ,56
+wa,23
+si,2
+ix,1
+xt,1
+ee,22
+n,,9
+nd,50
+ef,5
+ft,10
+al,23
+lo,20
+on,49
+ne,29
+ T,20
+Th,14
+mo,9
+ng,37
+gr,6
+vi,5
+in,57
+g ,18
+ i,37
+sa,9
+us,11
+ri,11
+r-,2
+-o,1
+ p,21
+pr,5
+et,22
+de,16
+o.,11
+ v,3
+tt,11
+ty,6
+y,,7
+ H,9
+He,6
+wi,10
+ b,43
+ba,5
+ab,3
+by,4
+co,8
+mi,3
+g.,8
+os,4
+t,,9
+ta,9
+rv,2
+d.,10
+no,37
+ot,27
+fe,8
+ow,25
+w ,13
+oo,24
+ok,5
+im,17
+tw,4
+wo,14
+ye,4
+rs,10
+ti,13
+br,7
+ut,29
+tu,5
+ur,15
+rn,5
+p ,18
+ag,7
+ga,4
+ai,9
+go,18
+ac,12
+ck,13
+m.,4
+be,18
+bl,3
+la,10
+lu,5
+'d,2
+n-,2
+-I,6
+r.,17
+ak,7
+ny,3
+yb,1
+bo,7
+od,15
+dy,2
+ev,18
+sw,5
+we,19
+r,,8
+Wo,1
+n!,5
+nt,9
+w!,1
+fo,24
+un,8
+-a,6
+bu,5
+yi,2
+g,,3
+hu,4
+lk,3
+Lo,2
+k!,1
+ug,5
+gl,2
+hr,3
+ro,15
+oa,2
+ D,6
+De,1
+d,,11
+kn,11
+ew,2
+af,5
+rw,1
+rd,4
+ds,3
+m-,2
+lp,4
+We,9
+-w,3
+wn,7
+ r,10
+rc,2
+ch,15
+hw,2
+ay,18
+Ab,2
+fi,6
+if,5
+ya,1
+s.,17
+ N,19
+No,17
+fr,4
+ra,9
+id,10
+So,5
+I,,2
+ F,1
+Fo,1
+rt,11
+y-,2
+ B,7
+Bo,1
+Sq,1
+qu,2
+ua,1
+oh,1
+ C,1
+Co,1
+of,14
+ G,9
+Gl,1
+If,4
+h!,8
+dr,4
+op,3
+pp,4
+pe,7
+gg,2
+Yo,7
+u ,21
+mu,5
+dn,3
+n',16
+'t,15
+m,,4
+l-,3
+o?,1
+e!,6
+!-,1
+-T,1
+io,3
+cr,1
+ e,12
+da,14
+em,6
+Bu,2
+Su,2
+uc,7
+aw,9
+wf,3
+fu,4
+cl,3
+tc,2
+h,,3
+fl,2
+rk,4
+pl,5
+ce,11
+To,3
+ms,3
+Sa,1
+nk,7
+Ne,2
+ey,8
+cu,3
+ff,3
+r!,3
+w.,3
+k.,4
+tl,7
+t-,1
+-n,2
+g!,1
+Go,7
+ws,3
+so,7
+sc,1
+By,2
+l!,4
+hy,4
+Oh,2
+wy,1
+rm,4
+s?,2
+I.,1
+vo,2
+Di,1
+pi,3
+ic,4
+og,5
+g?,1
+g',1
+An,5
+r;,1
+p.,2
+lt,1
+-s,2
+av,8
+Do,2
+t!,5
+u.,2
+-!,2
+In,2
+Pi,1
+ml,1
+o,,2
+Ti,1
+KE,7
+EI,5
+IT,5
+TH,5
+H ,4
+ns,4
+ks,2
+n;,1
+LA,3
+AR,2
+RR,2
+RY,2
+Y',1
+sp,4
+ ",7
+"U,1
+Un,1
+ex,2
+xc,2
+!",1
+" ,6
+ V,1
+Ve,1
+u',7
+'r,5
+h;,3
+lw,1
+Er,3
+a.,4
+Gi,1
+c,,1
+ J,1
+Ju,1
+u,,4
+Sn,1
+na,2
+ap,5
+ge,11
+mf,1
+Ha,2
+ep,5
+u?,1
+ q,1
+ui,1
+D',1
+'y,2
+mb,1
+mm,1
+oy,2
+m?,2
+Na,1
+nc,2
+po,7
+w-,1
+oe,6
+Al,1
+'l,3
+r?,3
+Tr,1
+s',1
+'?,1
+Mu,1
+Sw,1
+pa,4
+Wi,1
+"T,2
+.",5
+Li,1
+gy,1
+d:,1
+: ,1
+gu,1
+uv,1
+v',1
+'n,1
+ ',3
+'E,1
+-v,1
+yn,1
+'i,1
+nn,2
+oc,4
+su,3
+"A,1
+Ho,1
+Wa,5
+a?,1
+Ta,3
+k,,2
+w,,1
+pu,2
+Y ,1
+Si,1
+ts,3
+ls,1
+sl,1
+ip,1
+ps,1
+wr,1
+d',1
+-l,4
+p-,1
+-f,3
+-i,1
+-d,1
+?-,1
+gn,2
+Sl,1
+p?,1
+dg,1
+d-,6
+Ah,1
+Le,3
+py,1
+Mi,1
+uf,1
+o!,2
+rg,1
+yt,1
+pt,1
+lv,1
+s-,2
+-u,1
+Pr,2
+Br,1
+y!,1
+a,,2
+n?,1
+St,1
+H!,1
+Pu,1
+Be,1
+hs,1
+s;,1
+bi,2
+gs,1
+,-,1
+k;,1
+nh,1
+um,1
+va,1
+y;,1
+sm,1
+ss,4
+h',1
+eo,2
+-p,1
+cc,1
+-b,1
+Dr,1
+p!,1
+au,1
+ec,1
+Tw,1
+"N,1
+nf,1
+"P,1
+Pl,1
+"L,1
+AU,1
+UR,1
+RE,1
+EN,1
+NC,1
+CE,1
+E ,1
+TOTAL NUMBER OF BIGRAMS = 6641
